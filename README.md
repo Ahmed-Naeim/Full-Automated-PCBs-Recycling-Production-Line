@@ -38,20 +38,25 @@ Upload esp8266_code.ino to enable communication with Blynk, transmit system stat
 
 **Integration with Blynk**
 
-**Configure Blynk App:**
-
+Configure Blynk App:
 Obtain Blynk authentication token and Wi-Fi credentials.
 Set up virtual pins in the Blynk app for monitoring machine states and controlling operation modes remotely.
+
 **Documentation**
+
 Detailed Documentation: See Documentation for comprehensive information on system architecture, component connections, operational modes, safety protocols, and Blynk integration.
 Demonstration Video: Watch our demonstration video to see installation steps, system operation, and user interaction scenarios.
 **Future Enhancements
 **Implement predictive maintenance using sensor data analytics.
 Enhance user interface for improved user experience and accessibility.
 Integrate with cloud platforms for data logging and advanced analytics.
+
 **Contributors**
+
 Ahmed Mohamed Naeim - Project Lead & Developer
+
 **License**
+
 This project is licensed under the MIT License.
 
 
