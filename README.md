@@ -1,5 +1,7 @@
 # Full-Automated-PCBs-Recycling-Production-Line
 
+![image](https://github.com/Ahmed-Naeim/Full-Automated-PCBs-Recycling-Production-Line/assets/89314486/7a1751a9-11e8-4ba3-8876-80c309290027)
+
 **Overview**
 
 The Full Line Control System is a comprehensive industrial automation solution designed to manage and monitor a series of machines. It integrates local control via Arduino Mega with remote monitoring capabilities using ESP8266 and the Blynk platform. This system supports both automatic and manual operation modes, ensures safety through IR and ultrasonic sensors, and provides real-time status updates through an OLED display and the Blynk mobile app.
